@@ -1,0 +1,47 @@
+---
+title: "<strong> Propuesta de análisis y visualización </strong>"
+
+subtitle: "<strong> Área de cooperación </strong>"
+
+author: "<strong> Dirección de Relaciones Exteriores</strong>"
+
+date: "`r format(Sys.Date(), ' %m / %d / %Y')`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle
+
+![](https://upload.wikimedia.org/wikipedia/commons/c/c4/Escudo_unal_2016.png)
+
+#### **Estudiante auxiliar**
+
+#### David Torres
+
+#### **Professor:**
+
+#### Mónica Cuervo
+
+---
+class: inverse, center, middle
+
+# Introducción
+
+<iframe src="https://giphy.com/embed/l1J9Q7gYHikQF8qZ2" width="200" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
+---
+class: center, middle
+
+---
+
+# Aréa de Cooperación
+
+
