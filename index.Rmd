@@ -21,7 +21,7 @@ options(htmltools.dir.version = FALSE)
 
 class: center, middle
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c4/Escudo_unal_2016.png)
+![](https://upload.wikimedia.org/wikipedia/commons/c/c4/Escudo_unal_2016.png 250x250)
 
 #### **Estudiante auxiliar**
 
