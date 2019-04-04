@@ -101,6 +101,24 @@ class: inverse, center, middle
 <iframe src="https://giphy.com/embed/2tRkgMD3MZCGkhexMy" width="400" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe
 
 ---
-#
+
+#  Diseño y etapa preliminar
+
++ El diseño muestral debe ser bien determinado en cada encuesta y posible para el estudio.
+
+--
+
++ El cuestionario o formulario de preguntas debe ser claro para el usuario y fácil de tabular.
+
+--
+
++ El estudiante auxiliar asesorará el diseño y elaboraxión de las encuestas.
+
+---
+
+# Plan de trabajo
+
++ Según la naturaleza de la información y la premura con la que sean requeridos se deb, por tanto, elegir
+
 
 
